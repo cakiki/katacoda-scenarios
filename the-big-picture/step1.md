@@ -9,3 +9,5 @@ Solomon Hykes on Docker
 ```
 docker version
 ```{{execute}}
+
+# Try it yourself
